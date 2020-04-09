@@ -1,4 +1,4 @@
-﻿
+
 
 # MLBB Heroes - Flutter
 
@@ -6,10 +6,10 @@ A simple app made using flutter .
 
 ## Images
 
-<img src="https://i.imgur.com/ZjFwFHB.gif">
 
-![home](https://i.imgur.com/XEIrEw9.png)
-![Hero info](https://i.imgur.com/wPgskDf.png)
+<img src="https://i.imgur.com/48eic4v.gif" width=300 height =450>
+<img src="https://i.imgur.com/XEIrEw9.png" width=300 height=450>
+<img src="https://i.imgur.com/wPgskDf.png" width=300 height=450>
 
 ## Source:
 
